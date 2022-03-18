@@ -1,4 +1,4 @@
-# Nome do Projeto
+# Nac 1 - Cuphead
 
 nome: Gabriel Juncken Costa - 82460
 			Guilherme Nishiura Machado Silva - 82787
@@ -29,3 +29,7 @@ Após isso execute célula por célula.
 Vídeo executando o exercicio 3
 
 https://youtu.be/I79KsHlutF0
+
+Vídeo executando o exercicio 4
+
+https://youtu.be/aG_0b_qPCsc
