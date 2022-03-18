@@ -1,6 +1,6 @@
 # Nac 1 - Cuphead
 
-nome: Gabriel Juncken Costa - 82460 <br>
+nome:<br> Gabriel Juncken Costa - 82460 <br>
       Guilherme Nishiura Machado Silva - 82787
 
 Turma: 4SIA
